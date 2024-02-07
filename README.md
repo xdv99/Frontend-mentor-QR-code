@@ -14,6 +14,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This as the QR code design challenge from [Frontend Mentor](https://www.frontendmentor.io).
 
+[**Live Preview**](https://xdv99.github.io/Frontend-mentor-QR-code/)
+
 ### Screenshot
 
 | ![Image 1](./screenshots/desktop.jpeg) | ![Image 2](./screenshots/mobile.jpeg) |
